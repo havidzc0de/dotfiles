@@ -1,0 +1,456 @@
+{
+	"folder_history":
+	[
+		"/root/Documents/Kuliah/Web Service/nginx",
+		"/root/Documents/Kuliah/Web Service/api"
+	],
+	"last_version": 3211,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1001.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"php",
+						"php-fpm"
+					],
+					[
+						"sit",
+						"sites-enabled"
+					],
+					[
+						"site",
+						"site-available"
+					],
+					[
+						"doc",
+						"docker-entrypoint"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/root/Documents/Kuliah/Web Service/api/Dockerfile",
+				"/root/Documents/Kuliah/Web Service/api/entrypoint.sh",
+				"/root/Documents/Kuliah/Web Service/api/Api.php",
+				"/root/Documents/Kuliah/Web Service/docker-compose.yml",
+				"/root/Documents/Kuliah/Web Service/php71/php.ini",
+				"/root/Documents/Kuliah/Web Service/api/orders.php",
+				"/root/Documents/Kuliah/Web Service/api/update.php",
+				"/root/Documents/Kuliah/Web Service/api/saveupdate.php",
+				"/root/Documents/Kuliah/Web Service/api/submit.php",
+				"/root/Documents/Kuliah/Web Service/nginx/default",
+				"/root/Documents/Kuliah/Web Service/nginx/entrypoint.sh",
+				"/root/Documents/Kuliah/Web Service/nginx/Dockerfile",
+				"/root/Documents/Kuliah/Web Service/Dockerfile",
+				"/root/Documents/Kuliah/Web Service/api/nginx/nginx.conf",
+				"/root/Documents/Kuliah/Web Service/api/docker-compose.yml",
+				"/root/Documents/Kuliah/Web Service/api/nginx.conf",
+				"/root/burpsuite",
+				"/root/Documents/4lphaSEC/Tools/uploader.py",
+				"/root/Documents/4lphaSEC/Shell/November/zet.txt",
+				"/root/.config/i3/config",
+				"/root/Documents/4lphaSEC/temp/upload-wp.py",
+				"/root/Documents/4lphaSEC/Shell/November/done.txt",
+				"/root/.config/gtk-3.0/gtk.css",
+				"/root/.config/terminator/config",
+				"/root/.config/gtk-3.0/settings.ini",
+				"/root/.config/gtk-2.0/gtkfilechooser.ini",
+				"/media/root/TOSHIBA EXT/Screen Shot 2019-11-02 at 1.56.49 PM.png"
+			],
+			"find":
+			{
+				"height": 221.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"php71",
+					" ../php71",
+					"../",
+					" ../php71",
+					"../",
+					"hakase",
+					"$mod+b ",
+					"restart",
+					"mod+Shift+e",
+					"mod+p",
+					"mod+l",
+					"od+Shift+e mode",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 209.0
+			},
+			"input":
+			{
+				"height": 209.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 414.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1860.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"user",
+						"username"
+					],
+					[
+						"use",
+						"username"
+					],
+					[
+						"php",
+						"php-fpm"
+					],
+					[
+						"sit",
+						"sites-enabled"
+					],
+					[
+						"site",
+						"site-available"
+					],
+					[
+						"doc",
+						"docker-entrypoint"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/root/Documents/HTB/Triks/nmap.txt",
+				"/root/Documents/4lphaSEC/Shell/November/zet3.txt",
+				"/root/Documents/Kuliah/Web Service/nginx/Dockerfile",
+				"/root/Documents/paypalcorp.com-http.txt",
+				"/root/Documents/paypalcorp.com.txt",
+				"/root/Documents/Kuliah/Web Service/nginx/entrypoint.sh",
+				"/root/Documents/Kuliah/Web Service/api/Dockerfile",
+				"/root/Documents/Kuliah/Web Service/api/entrypoint.sh",
+				"/root/Documents/Kuliah/Web Service/api/Api.php",
+				"/root/Documents/Kuliah/Web Service/docker-compose.yml",
+				"/root/Documents/Kuliah/Web Service/php71/php.ini",
+				"/root/Documents/Kuliah/Web Service/api/orders.php",
+				"/root/Documents/Kuliah/Web Service/api/update.php",
+				"/root/Documents/Kuliah/Web Service/api/saveupdate.php",
+				"/root/Documents/Kuliah/Web Service/api/submit.php",
+				"/root/Documents/Kuliah/Web Service/nginx/default",
+				"/root/Documents/Kuliah/Web Service/Dockerfile",
+				"/root/Documents/Kuliah/Web Service/api/nginx/nginx.conf",
+				"/root/Documents/Kuliah/Web Service/api/docker-compose.yml",
+				"/root/Documents/Kuliah/Web Service/api/nginx.conf",
+				"/root/burpsuite",
+				"/root/Documents/4lphaSEC/Tools/uploader.py",
+				"/root/Documents/4lphaSEC/Shell/November/zet.txt",
+				"/root/.config/i3/config",
+				"/root/Documents/4lphaSEC/temp/upload-wp.py",
+				"/root/Documents/4lphaSEC/Shell/November/done.txt",
+				"/root/.config/gtk-3.0/gtk.css",
+				"/root/.config/terminator/config",
+				"/root/.config/gtk-3.0/settings.ini",
+				"/root/.config/gtk-2.0/gtkfilechooser.ini",
+				"/media/root/TOSHIBA EXT/Screen Shot 2019-11-02 at 1.56.49 PM.png"
+			],
+			"find":
+			{
+				"height": 221.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 209.0
+			},
+			"input":
+			{
+				"height": 209.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,30,30,1890,1031,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 414.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,8 @@
+
+.full3{background:#000000;filter:alpha(opacity=60);-moz-opacity:0.6;opacity:0.6;width:100%;height:100%;position:absolute;left:0;top:0;z-index:1000;}
+.centeron{position:fixed;z-index:1002;left:50%;top:50%;_position:absolute;_left:expression((saw_X = document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth )/2 + ( scroll_X = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft )+'px'); 	_top:expression((saw_Y = document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight )/2 + ( scroll_Y = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop )+"px");}
+.tip_title { height:49px; line-height:49px; background-color:#E1E1E1; border-radius:5px 5px 0 0; color:#666; font-size:18px; text-indent:15px; font-weight:bold;}
+.tip_box {background:#fff; text-align:center;padding:50px 0;}
+.cloesd{ width:23px; height:23px;cursor:pointer;position:absolute;top:14px;right:14px; background:url(http://img.1mobile.com/web2/chrome_ex/images/close.png) no-repeat; display:block;}
+.cloesd:hover { background-position:0 -25px;}
+.cloesd:active { background-position:0 -50px;}

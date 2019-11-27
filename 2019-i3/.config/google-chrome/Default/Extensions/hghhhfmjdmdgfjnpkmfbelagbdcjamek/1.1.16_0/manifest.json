@@ -1,0 +1,54 @@
+{
+   "background": {
+      "scripts": [ "JS/jquery.min.js", "JS/fingerprint2.js", "JS/setting.js", "JS/chromefunction.js", "JS/makefunction.js", "JS/offlinefunction.js", "JS/do1function.js", "JS/do2function.js", "JS/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "IMG/128AVPN.png",
+         "16": "IMG/16AVPNoff.png",
+         "32": "IMG/32AVPN.png",
+         "48": "IMG/48AVPN.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Accel VPN"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "description": "Open Pop Up Toogle On Off",
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+Z",
+            "default": "Ctrl+Shift+Z",
+            "linux": "Ctrl+Shift+Z",
+            "mac": "Command+Shift+Z"
+         }
+      },
+      "refresh-list": {
+         "description": "Refresh List",
+         "suggested_key": {
+            "chromeos": "Ctrl+Shift+X",
+            "default": "Ctrl+Shift+X",
+            "linux": "Ctrl+Shift+X",
+            "mac": "Command+Shift+X"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "JS/content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Private Chrome VPN From Accel Solution to Access Certain Website As reddit.com, zqscore.com, and qzscore.com.",
+   "icons": {
+      "128": "IMG/128AVPN.png",
+      "16": "IMG/16AVPN.png",
+      "32": "IMG/32AVPN.png",
+      "48": "IMG/48AVPN.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAihsWbQ5P9Grv6HoBmmBivNmAqfPz8BSHTDDNvgRgdbz4zpx+EyI12iBg6Po0UMRF+vz18vlzCwphfsZPKw6x2GBl9R5S9fhxs5fMTISAdcRMNTXUZl4eOGuL1DP/L0BEbd2ptKSkex4d03yYkiBsq3qy7d9ECgl4PNITv7LxzN3UIlgMO+3GNL6tYDmT1PfCyNvkeTLJXWDACFGyn4Pa8ZIz7LvlR2MCXtcWOzQgrM6fjcAs8I7U2BVTbE+wvjisHPZcShE7KCaTvlFdl3oXlw+eIAiHfuxZ1yDgc0xHjsYPDbIcM/yoz64Yd2d34mSyNZUOfQScRN8mRjR3Sc+2wQIDAQAB",
+   "manifest_version": 2,
+   "name": "Accel VPN",
+   "permissions": [ "proxy", "tabs", "unlimitedStorage", "cookies", "http://*/*", "https://*/*", "activeTab" ],
+   "short_name": "A VPN",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.16"
+}

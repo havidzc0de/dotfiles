@@ -1,0 +1,10 @@
+2019/11/07-04:49:25.885 6648 Reusing MANIFEST /root/.config/google-chrome/Default/IndexedDB/https_devcentral.f5.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/07-04:49:27.881 6b26 Level-0 table #5: started
+2019/11/07-04:49:27.889 6b26 Level-0 table #5: 29793 bytes OK
+2019/11/07-04:49:27.902 6b26 Delete type=0 #3
+2019/11/07-04:49:27.903 6b26 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2019/11/07-04:49:29.422 6b26 Level-0 table #7: started
+2019/11/07-04:49:29.459 6b26 Level-0 table #7: 1345830 bytes OK
+2019/11/07-04:49:29.468 6b26 Delete type=0 #4
+2019/11/07-04:49:40.896 6b26 Compacting 1@1 + 1@2 files
+2019/11/07-04:49:40.896 6b26 compacted to: files[ 0 1 1 0 0 0 0 ]

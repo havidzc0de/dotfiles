@@ -1,0 +1,24 @@
+2019/11/24-23:50:07.696 5b4 Reusing MANIFEST /root/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/11/24-23:50:07.696 5b4 Recovering log #236
+2019/11/24-23:50:07.700 5b4 Reusing old log /root/.config/google-chrome/Default/Sync Data/LevelDB/000236.log 
+2019/11/25-02:51:32.957 7a3d Level-0 table #240: started
+2019/11/25-02:51:32.969 7a3d Level-0 table #240: 130139 bytes OK
+2019/11/25-02:51:32.982 7a3d Delete type=0 #236
+2019/11/25-02:51:32.983 7a3d Compacting 4@0 + 1@1 files
+2019/11/25-02:51:33.000 7a3d Generated table #241@0: 3985 keys, 396346 bytes
+2019/11/25-02:51:33.000 7a3d Compacted 4@0 + 1@1 files => 396346 bytes
+2019/11/25-02:51:33.009 7a3d compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/25-02:51:33.009 7a3d Delete type=2 #237
+2019/11/25-02:51:33.009 7a3d Delete type=2 #232
+2019/11/25-02:51:33.009 7a3d Delete type=2 #230
+2019/11/25-02:51:33.009 7a3d Delete type=2 #240
+2019/11/25-02:51:33.009 7a3d Delete type=2 #234
+2019/11/25-04:15:06.419 7a3d Level-0 table #243: started
+2019/11/25-04:15:06.434 7a3d Level-0 table #243: 264673 bytes OK
+2019/11/25-04:15:06.449 7a3d Delete type=0 #239
+2019/11/25-04:34:50.421 7a3d Level-0 table #245: started
+2019/11/25-04:34:50.438 7a3d Level-0 table #245: 159290 bytes OK
+2019/11/25-04:34:50.457 7a3d Delete type=0 #242
+2019/11/25-05:18:30.741 7a3d Level-0 table #247: started
+2019/11/25-05:18:30.757 7a3d Level-0 table #247: 132397 bytes OK
+2019/11/25-05:18:30.776 7a3d Delete type=0 #244

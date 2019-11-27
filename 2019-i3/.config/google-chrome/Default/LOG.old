@@ -1,0 +1,13 @@
+2019/11/14-06:43:37.391 8f0 Recovering log #16
+2019/11/14-06:43:37.392 8f0 Level-0 table #18: started
+2019/11/14-06:43:37.399 8f0 Level-0 table #18: 13218 bytes OK
+2019/11/14-06:43:37.420 8f0 Delete type=0 #16
+2019/11/14-06:43:37.420 8f0 Delete type=3 #14
+2019/11/14-06:43:37.421 adb Compacting 4@0 + 0@1 files
+2019/11/14-06:43:37.430 adb Generated table #20@0: 14 keys, 1954 bytes
+2019/11/14-06:43:37.430 adb Compacted 4@0 + 0@1 files => 1954 bytes
+2019/11/14-06:43:37.444 adb compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/14-06:43:37.445 adb Delete type=2 #9
+2019/11/14-06:43:37.445 adb Delete type=2 #12
+2019/11/14-06:43:37.445 adb Delete type=2 #18
+2019/11/14-06:43:37.445 adb Delete type=2 #15

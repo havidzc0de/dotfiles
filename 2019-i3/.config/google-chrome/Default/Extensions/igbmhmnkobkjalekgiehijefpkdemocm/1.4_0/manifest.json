@@ -1,0 +1,15 @@
+{
+   "author": "Ben Stephenson \u003Cben@bwes.co>",
+   "devtools_page": "devtools.html",
+   "icons": {
+      "128": "icons/icon128.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0yuqrPp2d2wecEgD9hnlVOdRBx2SMZHuv259FsZIEvGabw4eFUFgON87mCT+npSOCEn0LYxt01+JgGoAVl+nQLe49cqX15BhmjP8tELAkgeGo1qCpeQbdPqjkYU2OrIRZPtP/vEi1XEj83XbCkhLjAGSk3Rl8gqY/hpx6tI/jAWxm6OY08suM0WQQm0SL8mJ6N4cJmHjAAH2rkYcM6js0ZLebCLg7y8fr8c2/v/7dgwDgePUQAjvgFRt0I9Qqn9jQZs9FJ9sYsKbsZdjxpQotWGfC6hXxcrpOL+qiiYP9a+nBDuhbx1rW2tjPzAkYLZyRMYZKjPQnJ8TespOGQdRywIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "43",
+   "name": "GraphQL Network",
+   "permissions": [ "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}

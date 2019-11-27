@@ -1,0 +1,23 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_title": "APK Downloader"
+   },
+   "default_locale": "en",
+   "description": "Direct download APK file and install the app manually onto your Android devices.",
+   "icons": {
+      "128": "images/128.png",
+      "16": "images/16.png",
+      "48": "images/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnSApVaHHI0x2GwUcEcXqkV/raUhyA7HAHmxLOXnIe7776yfOqgky6FE/LuGIJ+IOpqkFYKhPir7aK6OtJz+mpmCdV7WtNE/CCfR6bobdjQ/ASvwjGE7AOjT/BBzuL6ALJwkK5VB/L/lvCnNswgnhRMZzIN2jBBR6gY01SP2oc08tchZRobKgbNmgGRD0Z+y4Lhks6FOOXgvPqdwnt4Zl9KWPRmYLwKXGyQOqZ83w7Mki+2RpI5nNpChf5ivB0EKe5tVqWfTPa4/AZYjNvsmu4uRhAIx5Qv07kYYN1q5zgGeQKehcvrVcvl4jJ/QhF3zSDmL6Cvi51jGaOim4MQ3JrwIDAQAB",
+   "manifest_version": 2,
+   "name": "APK Downloader",
+   "permissions": [ "tabs", "activeTab", "downloads", "storage", "cookies", "background", "contextMenus", "history", "webRequest", "webRequestBlocking", "https://apk.support/*", "https://*.apk.support/*", "https://www.google.com/", "https://*.google.com/*", "https://*.googleapis.com/*", "http://www.google.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.7"
+}

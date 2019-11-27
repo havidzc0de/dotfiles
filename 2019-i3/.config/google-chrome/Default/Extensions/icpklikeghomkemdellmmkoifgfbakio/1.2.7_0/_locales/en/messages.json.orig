@@ -1,0 +1,109 @@
+{	
+	"appName": {
+		"message": "anonymoX",
+		"description": "anonymoX"
+	},
+	"appDesc": {
+		"message": "Easy anonymous web browsing and bypassing of web censorship. No proxys or other programs needed. With many functions to protect privacy.",
+		"description": "title/description in extension list"
+	},
+	"loadtext": {
+		"message": "AnonymoX is loading"
+	},
+	"Country": {
+		"message": "Country"
+	},
+	"All": {
+		"message": "All"
+	},
+	"Identity": {
+		"message": "Identity"
+	},
+	"OFF": {
+		"message": "Off"
+	},
+	"ON": {
+		"message": "On"
+	},
+	"nofunction": {
+		"message": "AnonymoX isn't working"
+	},
+	"reasonmsg": {
+		"message": "Reasons for this you find"
+	},
+	"here": {
+		"message": "here"
+	},
+	"is": {
+		"message": "is"
+	},
+	"Options": {
+		"message": "AnonymoX Options"
+	},
+	"Options_info": {
+		"message": "This automatically generated account is used to login with the anonymoX network. It is displayed here only for support reference."
+	},
+	"Anonymous_ID": {
+		"message": "Anonymous ID"
+	},
+	"Username": {
+		"message": "Username"
+	},
+	"Password": {
+		"message": "Password"
+	},
+	"Save": {
+		"message": "Save"
+	},
+	"settings_ok": {
+		"message": "Username and Password set successfully!"
+	},
+	"settings_error": {
+		"message": "Username and Password combination is wrong!"
+	},
+	"activate_premium_code": {
+		"message": "Activate Premium Code"
+	},
+	"Activate": {
+		"message": "Activate"
+	},
+	"premium_is_active": {
+		"message": "Premium is active!"
+	},
+	"premium_network_error": {
+		"message": "A network Problem occured while trying to activate premium. Please try again!"
+	},
+	"premium_activate_error": {
+		"message": "A Problem occured while trying to activate premium:"
+	},
+	"premium_was_activated": {
+		"message": "Premium was activated!"
+	},
+	"premium_was_deactivated": {
+		"message": "Premium has run out and was deactivated!"
+	},
+	"Change_Identity": {
+		"message": "Change Identity"
+	},
+	"Selected_proxy_offline" : {
+		"message": "Selected proxy appears to be offline, please choose another!"
+	},
+	"no_connection": {
+		"message": "AnonymoX cannot connect at the moment."
+	},
+	"will_try_reconnect": {
+		"message": "It will try to reconnect ..."
+	},
+	"no_more_proxies_for_country": {
+		"message": "There are no proxy servers for your currently selected country available!"
+	},
+	"Close": {
+		"message": "Close"
+	},
+	"Disable": {
+		"message": "Disable"
+	},
+	"Ads_by_anonymoX": {
+		"message": "Ads by anonymoX"
+	}
+}

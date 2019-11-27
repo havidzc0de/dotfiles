@@ -1,0 +1,34 @@
+{
+   "background": {
+      "page": "background/index.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon19.png",
+         "38": "images/icon38.png"
+      },
+      "default_popup": "popup/index.html",
+      "default_title": "__MSG_extName__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "injected.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnmf+pEqoA23nru2Ua+wVjfxABFakpIbo6s5mtlPNsnNyRUsjc3smoeeqNOUHP6xtWpyUbWzGFRDqfmOKyHKQTMf8fLlA25Rl+vYurfr81/SanlxQnVyorSDkbK9qKprANu+JFO9saZYJmFRtLqsin6krx8he/mSeL9aXoLvwSwuRcgeTi8TEn2vpylbAl38Bj5lqalflg3jMNhwbBpIdX6qLBUt0QX9ehmw18HwTjWuBeOfJLa/fJqfXxQjvr+hINeys8nCLtztZTI4cUMHaNJqsox5ucSVQ9wKdKthZkbB183lO56tZTV17SMwYPwT41jAviuU161krNw+Gx7nFpQIDAQAB",
+   "manifest_version": 2,
+   "name": "MeddleMonkey",
+   "options_page": "options/index.html",
+   "permissions": [ "tabs", "\u003Call_urls>", "webRequest", "webRequestBlocking", "notifications", "downloads", "storage", "unlimitedStorage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

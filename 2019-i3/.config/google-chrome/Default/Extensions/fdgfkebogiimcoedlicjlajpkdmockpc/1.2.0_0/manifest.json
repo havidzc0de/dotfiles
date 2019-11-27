@@ -1,0 +1,31 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/pixel_helper_icon_faded_19.png",
+         "38": "img/pixel_helper_icon_faded_38.png"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "*://*.facebook.com/ads/*", "*://business.facebook.com/ads/*", "*://www.facebook.com/*" ],
+      "js": [ "content.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "The Facebook Pixel Helper is a troubleshooting tool that helps you validate your pixel implementation.",
+   "icons": {
+      "128": "img/pixel_helper_icon_128.png",
+      "16": "img/pixel_helper_icon_16.png",
+      "48": "img/pixel_helper_icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvDuXJtbLGednCnvtNhbhEdBtKlKs+LpTZZtAN5oZFqCiPIEHVRbwOj89bJBUsvFDY/JdM4OY921cr885dxRaq23WgMK+jaOFik50J7V0QApnDtK9e0F4hOzNxv/AbwDr2GVLYR2OAZsw57nkr/cdSWgjryq7ZgApcZI25VmDhKmuoHQekZD3hcV52eEks9F9aS7qTmlxeDy4FLe8kxWXZDhEzv+kPLaQ5Rao0EqPcxMxP+hP2iuOr1zmAa/ot3Bs+hJTY95zC54ga+3DyopSv/EdbWQ/CaVCuyzlhgRVAiD/CEz21WpkWG+9Fd9w/Vzpq/Uvpfcon42jZmU19sclRQIDAQAB",
+   "manifest_version": 2,
+   "name": "Facebook Pixel Helper",
+   "permissions": [ "tabs", "webNavigation", "webRequest", "webRequestBlocking", "storage", "identity", "*://*/*" ],
+   "short_name": "Facebook Pixel Helper",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.0"
+}

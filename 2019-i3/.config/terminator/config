@@ -1,0 +1,23 @@
+[global_config]
+  suppress_multiple_term_dialog = True
+[keybindings]
+  split_horiz = <Primary>Up
+  split_vert = <Primary>Right
+[profiles]
+  [[default]]
+    allow_bold = False
+    cursor_color = "#aaaaaa"
+    font = Noto Mono 11
+    show_titlebar = False
+    scrollbar_position = hidden
+    scrollback_infinite = True
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

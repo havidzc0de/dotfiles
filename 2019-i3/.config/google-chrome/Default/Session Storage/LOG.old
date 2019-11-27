@@ -1,0 +1,9 @@
+2019/11/24-23:50:07.959 624 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/11/24-23:50:07.960 624 Recovering log #194
+2019/11/24-23:50:07.961 624 Reusing old log Session Storage/000194.log 
+2019/11/25-02:45:43.447 7225 Level-0 table #198: started
+2019/11/25-02:45:43.459 7225 Level-0 table #198: 21949 bytes OK
+2019/11/25-02:45:43.465 7225 Delete type=0 #194
+2019/11/25-03:01:05.928 7f2 Level-0 table #200: started
+2019/11/25-03:01:05.937 7f2 Level-0 table #200: 19670 bytes OK
+2019/11/25-03:01:05.945 7f2 Delete type=0 #197
